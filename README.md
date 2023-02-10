@@ -1,21 +1,24 @@
 # My first project - exploratory data analysis
 
-This case study was part of the Advanced Data Analytics Bootcamp at neuefische. As our first longer project, we had 3 days to set up a project management and work through the tasks in groups of 4 people. It was centered around exploratory data analysis techniques and statistical analysis.
+This case study was part of the Advanced Data Analytics Bootcamp at [neuefische](https://www.neuefische.de/en/bootcamp/data-analytics). As our first longer project, we had 3 days to set up a project management and work through the tasks in groups of 4 people. It was centered around exploratory data analysis techniques and statistical analysis.
+Given that this project was in week 4 of the Bootcamp and the tools were still quite new to most participants, there was some guidance to get each group started.
 
 ## Topic and task
 
-Our task was to complete a case study to answer specific questions of our stakeholder by performing data analysis and visualisation. Our stakeholder was a fictional muesli delivery company for which we had to analyze the delivery process, compare target and actual performance and develop useful KPIs. 
+Our task was to complete a case study to answer specific questions of our stakeholder by performing data and statistical analysis and creating visualisation. Our stakeholder was a fictional muesli delivery company for which we had to analyze the delivery process, compare target and actual performance and develop useful KPIs. 
+My group started working together to get an overview about the topic and possible KPIs. Through our project management we specialized in certain tasks over time. My focus was especially in the creation of the graphics and the final presentation.
 
 ## Where to find..
-- [.. the task with detailed descriptions](Assignment.md).
+- [.. the task with detailed descriptions from neuefische](Assignment.md).
 - [.. all the code and visualizations](Muesli_Notebook.ipynb).
-- [.. our Google Slides presentation as a pdf file](Google_slides_presentation-The_Muesli_Case.pdf).
+- [.. the plots we created](plots).
+- [.. our Google Slides presentation as a pdf file](Google_slides_presentation.pdf).
 
 ## What did we use to work with
 - A **Trello Board** for project management.
 - **Google Sheets** for a first look at the data and the structure of the table. It consists of 4 sheets with data for all orders as well as specially collected data for individual steps of the delivery process.
 - **Google Slides** for the stakeholder presentation.
-- **Slack** and **Zoom** for our group work and presenting our findings.
+- **Slack** and **Zoom** for our group work.
 - A **Jupyter Notebook** for writing the code and doing visualizations with **Python** and additional libraries like **Seaborn** and **Matplotlib**.
 
 ---
