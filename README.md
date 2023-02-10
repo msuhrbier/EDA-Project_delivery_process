@@ -15,7 +15,7 @@ My group started working together to get an overview about the topic and possibl
 - [.. our Google Slides presentation as a pdf file](Google_slides_presentation.pdf).
 
 ## What did we use to work with
-- A **Trello Board** for project management.
+- A **Trello Kanban Board** for project management.
 - **Google Sheets** for a first look at the data and the structure of the table. It consists of 4 sheets with data for all orders as well as specially collected data for individual steps of the delivery process.
 - **Google Slides** for the stakeholder presentation.
 - **Slack** and **Zoom** for our group work.
